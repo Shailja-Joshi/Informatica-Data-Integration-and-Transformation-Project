@@ -1,5 +1,5 @@
-﻿# Informatica Data Integration and Transformation Project
-This process illustrates how to structure and manipulate relational databases effectively, demonstrating key SQL operations and transformations within an Informatica environment. The provided images and detailed SQL commands serve as a comprehensive guide for implementing and understanding these database management tasks.
+Informatica Data Integration and Transformation Project
+This project demonstrates the effective structuring and transformation of relational data using Informatica PowerCenter. It showcases key SQL operations, data mappings, and transformation logic used to process and integrate data across systems. The workflow highlights best practices for managing data quality, consistency, and performance within an ETL environment. Supporting images and SQL examples provide a clear, step-by-step understanding of the implementation approach.
 
 ## Images
 
@@ -217,3 +217,4 @@ Data Transformation: Changing data formats and structures.
 Data Joining: Combining data from multiple tables.
 Performance Tuning: Enhancing the efficiency of data operations.</p>
 This comprehensive process ensures that data is efficiently organized, manipulated, and retrieved to meet the needs of business intelligence and analytics.
+
